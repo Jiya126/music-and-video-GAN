@@ -1,7 +1,9 @@
-##Description
-This is a streamlit application using Facebook Audicraft Musicgen model. We have used ```musicgen-small``` model here for inference. You can yield better results by changing the model to 'musicgen-melody' or 'musicgen-large'.
+###Description
 
-##How to use
+This is a streamlit application using Facebook Audicraft Musicgen model. We have used ```musicgen-small``` model here for inference. You can yield better results by changing the model to ```musicgen-melody``` or ```musicgen-large``` .
+
+###How to use
+
 1. Clone the repository ```music-and-video-gan``` using git
 ``` git clone https://github.com/Jiya126/music-and-video-gan.git```
 2. Go inside the cloned repository
